@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flovia": {
+      "type": "http",
+      "url": "https://api.flovia.dev/mcp"
+    }
+  }
+}
